@@ -86,15 +86,15 @@ export default function Hero({
           {/* Mini impact metrics bar under CTA */}
           <div className="grid grid-cols-3 gap-4 pt-6 border-t border-primary/10 max-w-lg">
             <div>
-              <p className="text-xl sm:text-2xl font-display font-black text-primary">+20K</p>
+              <p className="text-xl sm:text-2xl font-display font-black text-primary">+1,200</p>
               <p className="text-xs text-neutral-500 font-medium font-sans">Usuarios Activos</p>
             </div>
             <div>
-              <p className="text-xl sm:text-2xl font-display font-black text-[#122A19]">+150 Ton</p>
+              <p className="text-xl sm:text-2xl font-display font-black text-[#122A19]">+15 Ton</p>
               <p className="text-xs text-neutral-500 font-medium font-sans">Residuos Reciclados</p>
             </div>
             <div>
-              <p className="text-xl sm:text-2xl font-display font-black text-[#27ae60]">98.5%</p>
+              <p className="text-xl sm:text-2xl font-display font-black text-[#27ae60]">97.8%</p>
               <p className="text-xs text-neutral-500 font-medium font-sans">Satisfacción Social</p>
             </div>
           </div>
