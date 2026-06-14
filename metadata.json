@@ -1,0 +1,6 @@
+{
+  "name": "Reciclapp",
+  "description": "Una innovadora plataforma tecnológica que conecta hogares y empresas con recicladores locales para monetizar residuos, impulsar la cultura ambiental y fomentar la sostenibilidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
